@@ -9,7 +9,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 public class JkyFastApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JkyFastApplication.class, args);
+		SpringApplication.run(JkyFastApplication.class, args);  
 	}
 	
 	@Override
